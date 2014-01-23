@@ -6,6 +6,19 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+    <style>
+        .sortable li {
+            cursor: move;
+            cursor: grab;
+            cursor: -moz-grab;
+            cursor: -webkit-grab;
+        }
+        .sortable li.ui-sortable-helper {
+            cursor: grabbing;
+            cursor: -moz-grabbing;
+            cursor: -webkit-grabbing;
+        }
+    </style>
   </head>
   <body>
     <div class="container">
@@ -66,10 +79,46 @@
 
       <div class="alert alert-success"><strong>Goed gedaan!</strong> Je had alle vragen goed.</div>
 
+      <h2>Vul deze risicoinventarisatie aan</h2>
+      <table class="table">
+        <tr>
+            <th>
+                Ongeval
+            </th>
+            <th>
+                Kans
+            </th>
+            <th>
+                Gevolg
+            </th>
+        </tr>
+        <tr>
+            <td>Twee kinderen botsen tegen elkaar op
+            </td>
+            <td>Groot
+            </td>
+            <td><input type="text" />
+            </td>
+        </tr>
+      </table>
+
+      <h2>Zet deze ongelukken in de goede volgorde</h2>
+      <ul class="sortable">
+        <li><span class="glyphicon glyphicon-sort"></span> Vallen</li>
+        <li>Struikelen</li>
+        <li>Verkeersongeval</li>
+        <li>Uitglijden over een banaan</li>
+      </ul>
+
     </div>
 
 
     <script src="https://code.jquery.com/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script>
+        $('.sortable').sortable();
+    </script>
+
   </body>
 </html>
