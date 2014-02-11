@@ -7,16 +7,29 @@
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
     <style>
+        .dragsource li,
         .sortable li {
             cursor: move;
             cursor: grab;
             cursor: -moz-grab;
             cursor: -webkit-grab;
         }
+        .dragsource li.ui-draggable-dragging,
         .sortable li.ui-sortable-helper {
             cursor: grabbing;
             cursor: -moz-grabbing;
             cursor: -webkit-grabbing;
+        }
+
+        .dragsource li {
+            background: gold;
+            width: 150px;
+        }
+        .droparea {
+            width: 200px;
+            height: 200px;
+            border: solid black 1px;
+            background: gold;
         }
     </style>
   </head>
@@ -110,6 +123,26 @@
         <li>Uitglijden over een banaan</li>
       </ul>
 
+      <h2>Sleep deze maatregelen in de goede categorie</h2>
+
+      <div class="dragassignment">
+          <ul class="dragsource">
+            <li>Icepack bij hand</li>
+            <li>Terrein schoonmaken</li>
+            <li>Verlichting aanbrengen</li>
+            <li>Verzekering afsluiten</li>
+          </ul>
+          
+          <div class="droparea">
+            <h2>kans verkleinen</h2>
+          </div>
+
+          <div class="droparea">
+            <h2>effect verkleinen</h2>
+          </div>
+      </div>
+
+
     </div>
 
 
@@ -118,6 +151,13 @@
     <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
     <script>
         $('.sortable').sortable();
+    </script>
+
+    <script>
+        $('.dragsource li').draggable({
+            revert: 'invalid'
+        });
+        $('.droparea').droppable();
     </script>
 
   </body>
