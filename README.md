@@ -163,6 +163,8 @@ Je bent vaak in je eigen gebouw en op je eigen terrein, en het is belangrijk dat
 
 ### Pionieren
 
+Bij het pionieren kan iemand een paal tegen zijn hoofd krijgen, of met zijn vingers bekneld raken. Pionieren wordt pas echt gevaarlijk als je bewegende onderdelen in je constructie hebt. Bouw je een schommel, katapult of wip, dan is het gevaar nog groter dat iemand geraakt wordt door een balk. Ook als je een hoge toren pioniert wordt het risico groter. Er bestaat dan namelijk het gevaar dat je van hoogte valt.
+
 ### Zeilen
 
 ### Tent opzetten
