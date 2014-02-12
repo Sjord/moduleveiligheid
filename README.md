@@ -96,6 +96,8 @@ De top 3 van verwondingen:
 
 ## Gevolgen reduceren
 
+### Verzekeringen
+
 # Risicoinventarisatie maken
 
 Je weet nu hoe je het risico kan inschatten en hoe je het kan verlagen. Dit kan je gebruiken bij het maken van een risicoinventarisatie en -evaluatie (RI&E).
@@ -147,6 +149,15 @@ Ben je een intensieve taak aan het doen, dan is het belangrijk dat je niet afgel
 ### Gebouw en omgeving
 
 Je bent vaak in je eigen gebouw en op je eigen terrein, en het is belangrijk dat deze veilig zijn.
+
+### Hygiëne en het bereiden van eten
+
+* Handen wassen
+* Gebouw schoonmaken en ventileren
+* Eten goed gaar maken
+* Rauw en gekookt eten scheiden
+* Eten goed bewaren
+* Vaatdoek regelmatig verschonen
 
 ## Omgevingen en situaties
 
