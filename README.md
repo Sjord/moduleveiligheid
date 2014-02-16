@@ -104,6 +104,10 @@ Voorbeeld: Om de kans op vallen te verkleinen verwijder je alle losliggende ding
 
 ## Kansen reduceren
 
+Een ongeluk kan zich alleen voordoen als er een bepaalde situatie is. Kinderen kunnen uitglijden over een natte vloer, maar alleen als de vloer nat is en ze onvoorzichtig er overheen lopen. Als je iets aan deze situatie verandert haal je de voorwaarden voor het ongeluk weg. Door het natte gedeelte af te zetten of droog te maken is het ongeluk al onmogelijk geworden.
+
+Om de kans op een ongeluk te verkleinen bedenk je dus in welke situatie een ongeluk zich kan voordoen en verander je iets aan de situatie zodat het ongeluk onwaarschijnlijker wordt.
+
 ## Gevolgen reduceren
 
 ### Verzekeringen
