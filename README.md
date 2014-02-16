@@ -114,6 +114,11 @@ Een andere manier om het risico te verkleinen is om de uitkomst van het ongeluk 
 
 ### Verzekeringen
 
+Eén manier om gevolgen te reduceren is om een verzekering te nemen. Als er dan een ongeluk gebeurd kom je niet in de problemen omdat je te weinig geld hebt, en na het ongeluk blijf je niet zitten met een torenhoge schuld. Er zijn verschillende verzekeringen:
+
+* Een reisverzekering dekt kosten van ongelukken tijdens een vakantie of kamp. Bijvoorbeeld als je bagage beschadigd of kwijt raakt, of als je je been breekt en naar het ziekenhuis moet. Met een doorlopende reisverzekering betaal je elke maand en dan ben je op elke reis verzekerd. Dit kost rond de €2 per maand.
+* Een aansprakelijkheidsverzekering. Als je iets of iemand anders stuk maakt en daar verantwoordelijk voor bent, kunnen de kosten op jou verhaald worden. Je aansprakelijkheidsverzekering dekt dit dan in veel gevallen. Beschadig je een kind of een auto, dan kunnen de kosten flink oplopen. Als leiding ben je ook nog eens verantwoordelijk, dus is de kans groter dat op jou de kosten verhaald worden. Het is dan ook een goed idee om een aansprakelijkheidsverzekering te hebben.
+
 # Risicoinventarisatie maken
 
 Je weet nu hoe je het risico kan inschatten en hoe je het kan verlagen. Dit kan je gebruiken bij het maken van een risicoinventarisatie en -evaluatie (RI&E).
