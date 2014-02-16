@@ -1,4 +1,3 @@
-
 # Module veiligheid
 
 
@@ -61,6 +60,12 @@ Hoe goed je ook je best doet, er kan altijd een ongeluk gebeuren. Het is onprakt
 Hetzelde gaat op voor scouting: het is heel leuk, en best wel gevaarlijk. Het doel van deze module is om het minder gevaarlijk te maken zonder het minder leuk te maken. Het is niet de bedoeling dat je stopt met alle spelletjes omdat iemand zich dan kan verwonden, maar om risico's terug te dringen tot een acceptabel niveau. Je kan dus nog steeds renspelletjes doen op het veld, maar haal eerst even de losliggende stenen en takken weg.
 
 # Risico inschatten
+
+## Veelvoorkomende ongelukken
+
+* Verkeersongelukken
+* Vallen
+* Blessure
 
 ## Kansen inschatten
 
