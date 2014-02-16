@@ -198,6 +198,12 @@ Een opgetuigde lelievlet weegt ongeveer 1000 kg, je zit met en handjevol mensen 
 
 ### Koken met gasflessen
 
+Gas brand heel goed en is goed op te slaan onder druk. Dat maakt het heel aantrekkelijk om op te koken, maar dat maakt het ook gevaarlijk. Een open gasfles spuit heel hard en als daar vuur bij komt krijg je een hele grote vlam.
+
+* Zorg dat je materiaal goed en niet te oud is.
+* Vervang geen gasflessen in de buurt van vuur, bijvoorbeeld als er een andere gaspit aan staat.
+* Zet je gasfles buiten je tent.
+
 ### Koken op houtvuur
 
 ### Hiken
