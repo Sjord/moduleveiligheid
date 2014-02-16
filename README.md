@@ -110,6 +110,8 @@ Om de kans op een ongeluk te verkleinen bedenk je dus in welke situatie een onge
 
 ## Gevolgen reduceren
 
+Een andere manier om het risico te verkleinen is om de uitkomst van het ongeluk minder groot te maken, als zich toch een ongeluk voordoet. Een airbag in je auto zorgt er niet voor dat je veiliger gaat rijden, maar als je dan toch een botsing krijgt verkleint het wel de kans op verwondingen.
+
 ### Verzekeringen
 
 # Risicoinventarisatie maken
