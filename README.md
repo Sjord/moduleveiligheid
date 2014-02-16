@@ -97,6 +97,11 @@ De top 3 van verwondingen:
 
 # Risico verlagen
 
+Om het risico van een ongeluk te verlagen kan je de kans verkleinen dat het ongeluk gebeurd, of het gevolg verkleinen. Als je de kans verkleint zal het ongeluk zich minder snel voordoen. Als je het gevolg verkleint is het minder erg als het ongeluk zich toch voordoet.
+
+Voorbeeld: Om de kans op brand te verkleinen doe je kaarsen uit als je weg gaat. Om het gevolg van brand te voorkomen heb je een brandblusser, een rookmelder en een verzekering.
+Voorbeeld: Om de kans op vallen te verkleinen verwijder je alle losliggende dingen van het terrein. Om het gevolg ervan te verkleinen heb je een EHBO doos in de buurt.
+
 ## Kansen reduceren
 
 ## Gevolgen reduceren
