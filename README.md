@@ -210,6 +210,12 @@ Gas brand heel goed en is goed op te slaan onder druk. Dat maakt het heel aantre
 
 ### Koken op houtvuur
 
+Zoals bij elk kampvuur moet je bluswater bij de hand hebben als je gaat koken op houtvuur. Een emmer is daarbij beter dan een jerrycan, want als je een brandwond hebt op je hand kan je die wel in een emmer steken en niet in een jerrycan.
+
+Daarnaast is het op een houtvuur lastiger om de temperatuur te regelen dan op een gaspit. Het risico van eten wat niet goed gaar is is daardoor groter.
+
+Daarnaast kook je vaak op de grond op een instabiele stellage, waardoor er een risico is dat een pan kan omvallen. Dat betekent niet alleen geen avondeten, maar ook mogelijke brandwonden.
+
 ### Hiken
 
 # Meer info 
