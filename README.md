@@ -190,7 +190,11 @@ Bij het pionieren kan iemand een paal tegen zijn hoofd krijgen, of met zijn ving
 
 Een opgetuigde lelievlet weegt ongeveer 1000 kg, je zit met en handjevol mensen in een kleine ruimte, er hangt een giek in de weg en je vlet moet ook nog de goede kant uit gaan. Dat is dus een gevaarlijke situatie. 
 
-### Tent opzetten
+### Kamperen in tenten
+
+Haringen en scheerlijnen zijn gevaarlijke dingen. Je kan er over vallen of je voet aan openhalen, vooral als je geen goede schoenen draagt.
+
+Daarnaast is er nog een risico dat tenten kapot gaan door misbruik of slecht onderhoud. Dat is een klein gevolg ten opzichte van een gewond kind, maar je wilt natuurlijk wel elk jaar op kamp met goede tenten.
 
 ### Op het wachtschip
 
