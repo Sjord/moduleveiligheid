@@ -218,6 +218,8 @@ Daarnaast kook je vaak op de grond op een instabiele stellage, waardoor er een r
 
 ### Hiken
 
+Als je een lang stuk gaat lopen is er een kans op blessures, blaren en andere pijntjes. Daarnaast meng je je in het verkeer, waardoor het gevaar bestaat dat je bij een verkeersongeval betrokken raakt. Ga je 's nachts of in de regen hiken, dan is dit risico nog groter.
+
 # Meer info 
 
 * Practical Risk Analysis for Safety Management, Kinney and Wiruth, http://www.dtic.mil/dtic/tr/fulltext/u2/a027189.pdf
