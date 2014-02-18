@@ -171,6 +171,8 @@ Ben je een intensieve taak aan het doen, dan is het belangrijk dat je niet afgel
 
 Je bent vaak in je eigen gebouw en op je eigen terrein, en het is belangrijk dat deze veilig zijn.
 
+* [Checklist veilig huren](http://regiogooi.nl/wp-content/uploads/2013/12/Handout_module-veiligheid_chacklist-veilig-huren-arbo.pdf)
+
 ### Hygiëne en het bereiden van eten
 
 * Handen wassen
