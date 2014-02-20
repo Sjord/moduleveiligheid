@@ -200,7 +200,11 @@ Daarnaast is er nog een risico dat tenten kapot gaan door misbruik of slecht ond
 
 ### Op het wachtschip
 
+Schepen hebben vaak nauwe gangen, obstakels en uitsteeksels. Het gevaar van struikelen of je ergens aan stoten is groot.
+
 ### In het materiaalhok
+
+In het materiaalhok ligt vaak gereedschap, verf en andere spullen. Vaak ligt een gedeelte van het materiaal op de grond of hangt aan het plafond, wat het materiaalhok nog wat gevaarlijker maakt.
 
 ### Koken met gasflessen
 
