@@ -99,6 +99,17 @@ De top 3 van verwondingen:
 * Vinger/hand breuk
 * Verzwikte enkel
 
+## Valkuilen
+
+Er zijn enkele redenen waarom je kansen verkeerd zou kunnen inschatten:
+* Nieuwe gevaren zijn enger dan bestaande gevaren.
+* Gevaren door mensen zijn enger dan gevaren door de natuur. Natuurlijke dingen worden als gezond ervaren, en daardoor wordt bijvoorbeeld straling van je mobiel gevaarlijker gevonden dan straling van de zon.
+* Spectaculaire dingen lijken gevaarlijker. Opgegeten worden door een haai lijkt een groter gevaar dan overlijden aan hart- en vaatziekten.
+* Gevaren in het nieuws lijken meer voor te komen. Je hoort bijna nooit over verkeersdoden op het nieuws, maar wel als er een vliegtuig neerstort. Daardoor lijkt vliegen gevaarlijker dan autorijden.
+* Als een situatie lijkt op die van jou schat je de kans hoger in. Als een scout betrokken raakt bij een verkeersongeval grijpt dat je meer aan dan dat iemand anders betrokken raakt.
+* Als je de situatie in eigen hand hebt lijkt het risico kleiner. Autorijden lijkt minder gevaarlijk dan vliegen, omdat je als bestuurder zelf de boel in de hand hebt.
+* Gevaren waarbij het gevolg lang op zich laat wachten lijken minder gevaarlijk. Van roken en ongezond leven ervaar je de gevolgen pas na jaren, dus lijkt het nu allemaal niet zo erg.
+
 # Risico verlagen
 
 Om het risico van een ongeluk te verlagen kan je de kans verkleinen dat het ongeluk gebeurd, of het gevolg verkleinen. Als je de kans verkleint zal het ongeluk zich minder snel voordoen. Als je het gevolg verkleint is het minder erg als het ongeluk zich toch voordoet.
@@ -144,8 +155,6 @@ Vraag: hoe verklein je de kans op een ongeluk?
 Vraag: hoe verklein je het gevolg van het ongeluk?
 
 ## Wanneer maak je een RI&E
-
-### Valkuil: risico's groeperen
 
 ## Veiligheidsfactoren
 
@@ -233,3 +242,4 @@ Als je een lang stuk gaat lopen is er een kans op blessures, blaren en andere pi
 # Meer info 
 
 * Practical Risk Analysis for Safety Management, Kinney and Wiruth, http://www.dtic.mil/dtic/tr/fulltext/u2/a027189.pdf
+* The Psychology of Security, Bruce Schneier, https://www.schneier.com/essay-155.html
