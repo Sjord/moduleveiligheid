@@ -61,6 +61,10 @@ Hetzelde gaat op voor scouting: het is heel leuk, en best wel gevaarlijk. Het do
 
 # Risico inschatten
 
+Om het risico van een ongeluk in te schatten moet je ongeveer weten wat de kans is dat het ongeluk zich kan voordoen, en wat het gevolg van het ongeluk is. Als je denkt dat het best waarschijnlijk is dat je wordt getroffen door de bliksem maak je al je geld en tijd op aan bliksemafleiders installeren, terwijl er grotere risico's zijn. Denk je dat je er niks aan overhoud als je kokend water over je heen krijgt, dan besteed je misschien niet genoeg aandacht aan dat risico.
+
+Dit hoofdstuk is er dus voor om je gevoel voor kans en gevolg te ijken.
+
 ## Veelvoorkomende ongelukken
 
 * Verkeersongelukken
