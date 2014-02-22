@@ -81,13 +81,15 @@ Bij een verkeersongeluk denk je vaak aan een aanrijding, maar het komt ook vaak 
 
 Aan een verkeersongeluk kan je een kneuzing of breuk of een hersenschudding over houden, en er overlijden jaarlijks zo'n 600 mensen in het verkeer.
 
+### Botsen
+
+Je wordt geraakt worden door iets of iemand, of je loopt ergens tegenop. Tijdens het spelen bots je snel ergens tegenop. Ook meubilair heeft de neiging om in de weg te staan, en het gebeurt ook nog al eens dat iemand tegen een deur aan loopt.
+
+Daarnaast zijn mensen slecht met bewegende dingen. Kinderen worden vrij vaak geraakt door een bal. Welpen zijn altijd met stokken aan het zwaaien en met dingen aan het gooien, en dan wordt er wel eens iemand geraakt.
+
 ### Beklemming
 
 Je vinger komt ergens tussen
-
-### Botsen
-
-Je wordt geraakt worden door iets of iemand, of je loopt ergens tegenop.
 
 ### Blessure
 
