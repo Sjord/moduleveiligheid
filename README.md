@@ -95,7 +95,7 @@ Ongeveer 6% van de kinderen tussen de 5 en 12 die bij de eerste hulp komt heeft 
 
 ### Blessure
 
-Ook als er geen duidelijk ongeluk plaats vindt kan je tijdens een spel je enkel verzwikken of last van je knie of je rug krijgen. Je kan dit voorkomen door eerst even op te warmen met een rustig spel voordat je keihard gaat rennen.
+Ook als er geen duidelijk ongeluk plaats vindt kan je tijdens een spel je enkel verzwikken of last van je knie of je rug krijgen. Je kan dit voorkomen door eerst even op te warmen met een rustig spel voordat je keihard gaat rennen, of door oefeningen te doen om je spieren te versterken zodat die de klappen opvangen.
 
 ## Kansen inschatten
 
