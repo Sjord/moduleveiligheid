@@ -95,6 +95,8 @@ Ongeveer 6% van de kinderen tussen de 5 en 12 die bij de eerste hulp komt heeft 
 
 ### Blessure
 
+Ook als er geen duidelijk ongeluk plaats vindt kan je tijdens een spel je enkel verzwikken of last van je knie of je rug krijgen. Je kan dit voorkomen door eerst even op te warmen met een rustig spel voordat je keihard gaat rennen.
+
 ## Kansen inschatten
 
 Mensen tussen de 12 en 24 jaar oud komen het meest bij de eerste hulp door ongevallen in de volgende categorieën:
