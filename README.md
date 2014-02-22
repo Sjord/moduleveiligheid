@@ -67,8 +67,9 @@ Dit hoofdstuk is er dus voor om je gevoel voor kans en gevolg te ijken.
 
 ## Veelvoorkomende ongelukken
 
-* Verkeersongelukken
 * Vallen
+* Verkeersongelukken
+* Beklemming. Je vinger komt ergens tussen
 * Blessure
 
 ## Kansen inschatten
