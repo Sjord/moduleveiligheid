@@ -3,7 +3,7 @@
 
 ## Introductie
 
-Deze module legt uit hoe je activiteiten veiliger kunt maken. Iets is veilig als er weinig kans is op ongelukken en letsel.
+Deze module legt uit hoe je activiteiten veiliger kunt maken. Iets is veilig als het risico van ongelukken en letsel klein is.
 
 ## Dreiging van gevaar
 
@@ -67,10 +67,29 @@ Dit hoofdstuk is er dus voor om je gevoel voor kans en gevolg te ijken.
 
 ## Veelvoorkomende ongelukken
 
-* Vallen
-* Verkeersongelukken
-* Beklemming. Je vinger komt ergens tussen
-* Blessure
+### Vallen
+
+Vallen is één van de grootste gevaren. Je kan vallen over iets wat op de grond ligt, of je kan zomaar vallen tijdens een wild spel. Het komt heel vaak voor dat een kind valt. Meestal kom je er met wat blauwe plekken vanaf, maar je kan ook een flinke snij- of schaafwond oplopen.
+
+In 2011 kwamen 94000 kinderen (5 t/m 18 jaar) bij de eerste hulp, en 54% daarvan vanwege een valongeluk.
+
+### Verkeersongelukken
+
+Verkeersongelukken komen redelijk vaak voor en hebben vaak grote gevolgen. Ongelukken gebeuren het meest met de fiets, en jongeren verongelukken vaker.
+
+Bij een verkeersongeluk denk je vaak aan een aanrijding, maar het komt ook vaak voor dat er slechts één iemand bij het ongeluk betrokken is. Bij zo'n eenzijdig ongeval val je bijvoorbeeld van je fiets omdat je per ongeluk de berm in reedt.
+
+Aan een verkeersongeluk kan je een kneuzing of breuk of een hersenschudding over houden, en er overlijden jaarlijks zo'n 600 mensen in het verkeer.
+
+### Beklemming
+
+Je vinger komt ergens tussen
+
+### Botsen
+
+Je wordt geraakt worden door iets of iemand, of je loopt ergens tegenop.
+
+### Blessure
 
 ## Kansen inschatten
 
