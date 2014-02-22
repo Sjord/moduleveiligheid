@@ -89,7 +89,9 @@ Daarnaast zijn mensen slecht met bewegende dingen. Kinderen worden vrij vaak ger
 
 ### Beklemming
 
-Je vinger komt ergens tussen
+Je vinger komt ergens tussen. Bij de meeste van dit soort ongelukken gaat het om een vinger tussen de deur, maar bij scouting kan je vinger (of teen) ook nog tussen andere dingen komen: kookkisten, lelievletten, roeiriemen, klaptafels, pionierpalen, gasflessen, en kabels.
+
+Ongeveer 6% van de kinderen tussen de 5 en 12 die bij de eerste hulp komt heeft een ongeval met beknelling gehad.
 
 ### Blessure
 
