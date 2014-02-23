@@ -209,25 +209,31 @@ Voorbeeld: Wil je een pakje batterijen open maken, dan kan dat met een schaar. H
 
 Voorbeeld: Ga je 's nachts een hike lopen, dan zijn goede schoenen, warme kleding en een reflecterend hesje belangrijk.
 
+Zorg dat je het goede materiaal gebruikt en dat het materiaal wat je gebruikt goed is.
+
 ### Voorbereiding
+
+Een activiteit verloopt beter met een goede voorbereiding. Leg alle spullen klaar van te voren en bedenk wat je van te voren kan doen. Dit zorgt er voor dat je in je hoofd de activiteit van te voren doorloopt, en dat je tijdens de activiteit rustiger bent en meer oog hebt voor wat er gebeurt. Beide zaken die bijdragen aan de veiligheid.
 
 Wil je niks vergeten aan je voorbereiding, gebruik dan een checklist. Schrijf alle dingen die gedaan moeten worden op. Deze kan je vóór de activiteit nog eens nalopen, zodat je niks vergeet.
 
 ### Instructie
 
-Weet je niet waar je mee bezig bent, dan is de kans op ongelukken groter.
+Weet je niet waar je mee bezig bent, dan is de kans op ongelukken groter. Het is daarom belangrijk om aan het begin van een activiteit goede instructie te geven, bijvoorbeeld over de regels van het spel en over wat het speelveld precies is. Goede regels en afspraken zorgen er voor dat het makkelijker is om overzicht te houden als leiding.
 
 ### Concentratie
 
-Ben je een intensieve taak aan het doen, dan is het belangrijk dat je niet afgeleid wordt.
+Ben je een intensieve taak aan het doen, dan is het belangrijk dat je niet afgeleid wordt. Zo is het een slecht idee om te facebooken tijdens het autorijden, maar ook om te hakken, boren of slijpen in een drukke omgeving.
 
 ### Gebouw en omgeving
 
-Je bent vaak in je eigen gebouw en op je eigen terrein, en het is belangrijk dat deze veilig zijn.
+Je bent vaak in je eigen gebouw en op je eigen terrein, en het is belangrijk dat deze veilig zijn. Denk hierbij aan uitstekende haken uit de muur, losse spullen op de grond, en goede nooduitgangen en -verlichting.
 
 * [Checklist veilig huren](http://regiogooi.nl/wp-content/uploads/2013/12/Handout_module-veiligheid_chacklist-veilig-huren-arbo.pdf)
 
 ### Hygiëne en het bereiden van eten
+
+Bij het gebruik van eten en drinken is het belangrijk dat dit op een hygiënische manier gebeurt, zodat je niet ziek wordt.
 
 * Handen wassen
 * Gebouw schoonmaken en ventileren
@@ -235,6 +241,8 @@ Je bent vaak in je eigen gebouw en op je eigen terrein, en het is belangrijk dat
 * Rauw en gekookt eten scheiden
 * Eten goed bewaren
 * Vaatdoek regelmatig verschonen
+
+Op zomerkamp is het daarnaast nog belangrijk dat kinderen zich vaak genoeg wassen en verschonen.
 
 ## Omgevingen en situaties
 
