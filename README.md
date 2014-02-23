@@ -3,11 +3,13 @@
 
 ## Introductie
 
-Deze module legt uit hoe je activiteiten veiliger kunt maken. Iets is veilig als het risico van ongelukken en letsel klein is.
+Deze module legt uit hoe je scoutingactiviteiten veiliger kunt maken.
+
+Als iemand zich verwondt tijdens een scoutingactiviteit is dat behoorlijk vervelend. Deze module legt uit hoe je scoutingactiviteiten veiliger kan maken, zonder dat de activiteit minder leuk wordt. Door van te voren in te schatten wat er mis kan gaan en wat de kans is dat er iets mis gaat kan je maatregelen nemen om ongelukken te voorkomen.
 
 ## Dreiging van gevaar
 
-Iets is gevaarlijk als er een mogelijkheid is dat het schade oplevert. Denk bij schade aan de volgende dingen:
+Iets is veilig als het risico van ongelukken en letsel klein is. Iets is gevaarlijk als er een mogelijkheid is dat het schade oplevert. Denk bij schade aan de volgende dingen:
 
 * onprettig gevoel
 * een hoge rekening
