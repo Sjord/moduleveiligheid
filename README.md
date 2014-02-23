@@ -109,7 +109,13 @@ Meestal is het voldoende om de kans in te delen in twee of drie categorieën: kl
 
 Kansen inschatten is best moeilijk. Probeer je niet te laten meeslepen door je gevoelens en gebruik indien mogelijk harde cijfers. Het is ook een goed idee om dit samen met iemand anders te doen.
 
-## Gevolgen inschatten
+## Effecten inschatten
+
+Het gevolg kan je ook indelen in de categorieën laag, middel en hoog. Enkele voorbeelden:
+
+* Laag. Best vervelend. Je hebt een wondje en er moet even een pleister op, je hebt je gestoten en het doet even pijn, of een andere kleine tegenslag.
+* Middel. Erg vervelend. Er moet een EHBOer naar kijken of je moet naar de eerste hulp. Je kan niet door met je programma. Je hebt er een aantal dagen last van.
+* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren.
 
 Mensen tussen de 12 en 24 jaar komen bij de eerste hulp met letsel aan:
 * Schouder/arm/hand
