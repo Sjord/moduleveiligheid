@@ -111,21 +111,25 @@ Kansen inschatten is best moeilijk. Probeer je niet te laten meeslepen door je g
 
 ## Effecten inschatten
 
+Om gevolgen van ongelukken in te schatten kan je het beste denken aan de slechts mogelijke scenario's. Bedenk wat er in het ergste geval fout kan gaan.
+
 Het gevolg kan je ook indelen in de categorieën laag, middel en hoog. Enkele voorbeelden:
 
 * Laag. Best vervelend. Je hebt een wondje en er moet even een pleister op, je hebt je gestoten en het doet even pijn, of een andere kleine tegenslag.
 * Middel. Erg vervelend. Er moet een EHBOer naar kijken of je moet naar de eerste hulp. Je kan niet door met je programma. Je hebt er een aantal dagen last van.
-* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren.
+* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren. Of nog erger: je raakt gehandicapped of je overlijdt.
 
-Mensen tussen de 12 en 24 jaar komen bij de eerste hulp met letsel aan:
-* Schouder/arm/hand
-* Heup/been/voet
-* Hoofd/hals/nek
+Enkele van de meest voorkomende gevolgen van een ongeluk zijn:
+* gebroken of gekneusde arm, hand, pols of vinger
+* hersenschudding
+* hoofdwond
+* verzwikte enkel
 
-De top 3 van verwondingen:
-* Vinger/hand kneuzing
-* Vinger/hand breuk
-* Verzwikte enkel
+Naast persoonlijke verwondingen kan je ook nog aan andere vervelende gevolgen denken:
+* Je clubhuis brand af. Iedereen is geschrokken, je moet maanden op een andere locatie draaien, en het kost veel werk en gedoe om een nieuw clubhuis en materiaal te krijgen.
+* Alle deelnemers aan een activiteit krijgen voedselvergiftiging en zijn een paar dagen ziek.
+* Na een avond kampvuur met veel rook heeft iedereen hoofdpijn en last van zijn longen, en verhoogde kans op kanker en andere ziekten.
+
 
 ## Valkuilen
 
