@@ -99,19 +99,15 @@ Ook als er geen duidelijk ongeluk plaats vindt kan je tijdens een spel je enkel 
 
 ## Kansen inschatten
 
-Mensen tussen de 12 en 24 jaar oud komen het meest bij de eerste hulp door ongevallen in de volgende categorieën:
+Om het risico te bepalen van een ongeluk moet je daarvoor de kans en het gevolg inschatten. Bij het inschatten van de kans gaat het er om hoe waarschijnlijk het is dat iets gebeurt. Denk bij het inschatten van een kans aan het volgende:
 
-* Geraakt door bewegend object
-* Lichamelijk contact
-* Val van tweewieler
+* Hoe vaak is het jezelf overkomen? Je hebt vast al een aantal keer je vinger tussen de deur gekregen, dus de kans daarop zal best hoog zijn.
+* Is het denkbaar dat het gebeurd? Je kan je wel voorstellen dat iemand uitglijdt over een natte vloer, maar het is best lastig voor te stellen dat iemand uitglijdt op een droge vloer.
+* Hoe vaak is het in het verleden gebeurd? In Nederland worden 5 mensen per jaar getroffen door bliksem, en er wonen ongeveer 16.000.000 mensen, dus de kans is vrij klein.
 
-Mensen tussen de 15 en 30 jaar gaan dood door:
+Meestal is het voldoende om de kans in te delen in twee of drie categorieën: klein, middel, groot.
 
-* Verkeersongeval
-* Zelfmoord
-* Privé ongeval
-* Moord/doodslag
-* Bedrijfsongeval
+Kansen inschatten is best moeilijk. Probeer je niet te laten meeslepen door je gevoelens en gebruik indien mogelijk harde cijfers. Het is ook een goed idee om dit samen met iemand anders te doen.
 
 ## Gevolgen inschatten
 
@@ -135,6 +131,7 @@ Er zijn enkele redenen waarom je kansen verkeerd zou kunnen inschatten:
 * Als een situatie lijkt op die van jou schat je de kans hoger in. Als een scout betrokken raakt bij een verkeersongeval grijpt dat je meer aan dan dat iemand anders betrokken raakt.
 * Als je de situatie in eigen hand hebt lijkt het risico kleiner. Autorijden lijkt minder gevaarlijk dan vliegen, omdat je als bestuurder zelf de boel in de hand hebt.
 * Gevaren waarbij het gevolg lang op zich laat wachten lijken minder gevaarlijk. Van roken en ongezond leven ervaar je de gevolgen pas na jaren, dus lijkt het nu allemaal niet zo erg.
+* Dat iets eng is betekent niet dat het gevaarlijk is. Bungeejumpen, achtbanen en spreken in het openbaar zijn heel eng, maar minder gevaarlijk dan autorijden of roken.
 
 # Risico verlagen
 
