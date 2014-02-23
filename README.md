@@ -189,6 +189,14 @@ Vraag: hoe verklein je het gevolg van het ongeluk?
 
 ## Wanneer maak je een RI&E
 
+Het veiligste is natuurlijk om altijd een RI&E op papier te zetten, maar dat is ook onpraktisch. Het is in ieder geval een goed idee om een RI&E te maken voor:
+
+* zomerkamp
+* regio- en landelijke activiteiten
+* nieuwe of gevaarlijke activiteiten
+
+Nadat je deze module hebt gevolgd en een paar RI&E's hebt gemaakt is het wel de bedoeling dat je wat meer gevoel krijgt voor veiligheid, en dat je dus ook de gevaren van een activiteit in kan schatten zonder een RI&E op papier te zetten. Het is dus een goed idee om voor elke activiteit even stil te staan bij de risico's, maar dat hoeft niet altijd formeel.
+
 ## Veiligheidsfactoren
 
 De volgende onderwerpen kunnen bijdragen aan een verhoogde veiligheid.
