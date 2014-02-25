@@ -70,6 +70,51 @@ Om het risico van een ongeluk in te schatten moet je ongeveer weten wat de kans 
 
 Dit hoofdstuk is er dus voor om je gevoel voor kans en gevolg te ijken.
 
+## Kansen inschatten
+
+Om het risico te bepalen van een ongeluk moet je daarvoor de kans en het gevolg inschatten. Bij het inschatten van de kans gaat het er om hoe waarschijnlijk het is dat iets gebeurt. Denk bij het inschatten van een kans aan het volgende:
+
+* Hoe vaak is het jezelf overkomen? Je hebt vast al een aantal keer je vinger tussen de deur gekregen, dus de kans daarop zal best hoog zijn.
+* Is het denkbaar dat het gebeurd? Je kan je wel voorstellen dat iemand uitglijdt over een natte vloer, maar het is best lastig voor te stellen dat iemand uitglijdt op een droge vloer.
+* Hoe vaak is het in het verleden gebeurd? In Nederland worden 5 mensen per jaar getroffen door bliksem, en er wonen ongeveer 16.000.000 mensen, dus de kans is vrij klein.
+
+Meestal is het voldoende om de kans in te delen in twee of drie categorieën: klein, middel, groot.
+
+Kansen inschatten is best moeilijk. Probeer je niet te laten meeslepen door je gevoelens en gebruik indien mogelijk harde cijfers. Het is ook een goed idee om dit samen met iemand anders te doen.
+
+### Valkuilen
+
+Er zijn enkele redenen waarom je kansen verkeerd zou kunnen inschatten:
+* Nieuwe gevaren zijn enger dan bestaande gevaren.
+* Gevaren door mensen zijn enger dan gevaren door de natuur. Natuurlijke dingen worden als gezond ervaren, en daardoor wordt bijvoorbeeld straling van je mobiel gevaarlijker gevonden dan straling van de zon.
+* Spectaculaire dingen lijken gevaarlijker. Opgegeten worden door een haai lijkt een groter gevaar dan overlijden aan hart- en vaatziekten.
+* Gevaren in het nieuws lijken meer voor te komen. Je hoort bijna nooit over verkeersdoden op het nieuws, maar wel als er een vliegtuig neerstort. Daardoor lijkt vliegen gevaarlijker dan autorijden.
+* Als een situatie lijkt op die van jou schat je de kans hoger in. Als een scout betrokken raakt bij een verkeersongeval grijpt dat je meer aan dan dat iemand anders betrokken raakt.
+* Als je de situatie in eigen hand hebt lijkt het risico kleiner. Autorijden lijkt minder gevaarlijk dan vliegen, omdat je als bestuurder zelf de boel in de hand hebt.
+* Gevaren waarbij het gevolg lang op zich laat wachten lijken minder gevaarlijk. Van roken en ongezond leven ervaar je de gevolgen pas na jaren, dus lijkt het nu allemaal niet zo erg.
+* Dat iets eng is betekent niet dat het gevaarlijk is. Bungeejumpen, achtbanen en spreken in het openbaar zijn heel eng, maar minder gevaarlijk dan autorijden of roken.
+
+## Effecten inschatten
+
+Om gevolgen van ongelukken in te schatten kan je het beste denken aan de slechts mogelijke scenario's. Bedenk wat er in het ergste geval fout kan gaan.
+
+Het gevolg kan je ook indelen in de categorieën laag, middel en hoog. Enkele voorbeelden:
+
+* Laag. Best vervelend. Je hebt een wondje en er moet even een pleister op, je hebt je gestoten en het doet even pijn, of een andere kleine tegenslag.
+* Middel. Erg vervelend. Er moet een EHBOer naar kijken of je moet naar de eerste hulp. Je kan niet door met je programma. Je hebt er een aantal dagen last van.
+* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren. Of nog erger: je raakt gehandicapped of je overlijdt.
+
+Enkele van de meest voorkomende gevolgen van een ongeluk zijn:
+* gebroken of gekneusde arm, hand, pols of vinger
+* hersenschudding
+* hoofdwond
+* verzwikte enkel
+
+Naast persoonlijke verwondingen kan je ook nog aan andere vervelende gevolgen denken:
+* Je clubhuis brand af. Iedereen is geschrokken, je moet maanden op een andere locatie draaien, en het kost veel werk en gedoe om een nieuw clubhuis en materiaal te krijgen.
+* Alle deelnemers aan een activiteit krijgen voedselvergiftiging en zijn een paar dagen ziek.
+* Na een avond kampvuur met veel rook heeft iedereen hoofdpijn en last van zijn longen, en verhoogde kans op kanker en andere ziekten.
+ 
 ## Veelvoorkomende ongelukken
 
 ### Vallen
@@ -101,52 +146,6 @@ Ongeveer 6% van de kinderen tussen de 5 en 12 die bij de eerste hulp komt heeft 
 ### Blessure
 
 Ook als er geen duidelijk ongeluk plaats vindt kan je tijdens een spel je enkel verzwikken of last van je knie of je rug krijgen. Je kan dit voorkomen door eerst even op te warmen met een rustig spel voordat je keihard gaat rennen, of door oefeningen te doen om je spieren te versterken zodat die de klappen opvangen.
-
-## Kansen inschatten
-
-Om het risico te bepalen van een ongeluk moet je daarvoor de kans en het gevolg inschatten. Bij het inschatten van de kans gaat het er om hoe waarschijnlijk het is dat iets gebeurt. Denk bij het inschatten van een kans aan het volgende:
-
-* Hoe vaak is het jezelf overkomen? Je hebt vast al een aantal keer je vinger tussen de deur gekregen, dus de kans daarop zal best hoog zijn.
-* Is het denkbaar dat het gebeurd? Je kan je wel voorstellen dat iemand uitglijdt over een natte vloer, maar het is best lastig voor te stellen dat iemand uitglijdt op een droge vloer.
-* Hoe vaak is het in het verleden gebeurd? In Nederland worden 5 mensen per jaar getroffen door bliksem, en er wonen ongeveer 16.000.000 mensen, dus de kans is vrij klein.
-
-Meestal is het voldoende om de kans in te delen in twee of drie categorieën: klein, middel, groot.
-
-Kansen inschatten is best moeilijk. Probeer je niet te laten meeslepen door je gevoelens en gebruik indien mogelijk harde cijfers. Het is ook een goed idee om dit samen met iemand anders te doen.
-
-## Effecten inschatten
-
-Om gevolgen van ongelukken in te schatten kan je het beste denken aan de slechts mogelijke scenario's. Bedenk wat er in het ergste geval fout kan gaan.
-
-Het gevolg kan je ook indelen in de categorieën laag, middel en hoog. Enkele voorbeelden:
-
-* Laag. Best vervelend. Je hebt een wondje en er moet even een pleister op, je hebt je gestoten en het doet even pijn, of een andere kleine tegenslag.
-* Middel. Erg vervelend. Er moet een EHBOer naar kijken of je moet naar de eerste hulp. Je kan niet door met je programma. Je hebt er een aantal dagen last van.
-* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren. Of nog erger: je raakt gehandicapped of je overlijdt.
-
-Enkele van de meest voorkomende gevolgen van een ongeluk zijn:
-* gebroken of gekneusde arm, hand, pols of vinger
-* hersenschudding
-* hoofdwond
-* verzwikte enkel
-
-Naast persoonlijke verwondingen kan je ook nog aan andere vervelende gevolgen denken:
-* Je clubhuis brand af. Iedereen is geschrokken, je moet maanden op een andere locatie draaien, en het kost veel werk en gedoe om een nieuw clubhuis en materiaal te krijgen.
-* Alle deelnemers aan een activiteit krijgen voedselvergiftiging en zijn een paar dagen ziek.
-* Na een avond kampvuur met veel rook heeft iedereen hoofdpijn en last van zijn longen, en verhoogde kans op kanker en andere ziekten.
-
-
-## Valkuilen
-
-Er zijn enkele redenen waarom je kansen verkeerd zou kunnen inschatten:
-* Nieuwe gevaren zijn enger dan bestaande gevaren.
-* Gevaren door mensen zijn enger dan gevaren door de natuur. Natuurlijke dingen worden als gezond ervaren, en daardoor wordt bijvoorbeeld straling van je mobiel gevaarlijker gevonden dan straling van de zon.
-* Spectaculaire dingen lijken gevaarlijker. Opgegeten worden door een haai lijkt een groter gevaar dan overlijden aan hart- en vaatziekten.
-* Gevaren in het nieuws lijken meer voor te komen. Je hoort bijna nooit over verkeersdoden op het nieuws, maar wel als er een vliegtuig neerstort. Daardoor lijkt vliegen gevaarlijker dan autorijden.
-* Als een situatie lijkt op die van jou schat je de kans hoger in. Als een scout betrokken raakt bij een verkeersongeval grijpt dat je meer aan dan dat iemand anders betrokken raakt.
-* Als je de situatie in eigen hand hebt lijkt het risico kleiner. Autorijden lijkt minder gevaarlijk dan vliegen, omdat je als bestuurder zelf de boel in de hand hebt.
-* Gevaren waarbij het gevolg lang op zich laat wachten lijken minder gevaarlijk. Van roken en ongezond leven ervaar je de gevolgen pas na jaren, dus lijkt het nu allemaal niet zo erg.
-* Dat iets eng is betekent niet dat het gevaarlijk is. Bungeejumpen, achtbanen en spreken in het openbaar zijn heel eng, maar minder gevaarlijk dan autorijden of roken.
 
 # Risico verlagen
 
