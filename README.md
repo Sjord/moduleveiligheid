@@ -5,7 +5,7 @@
 
 Deze module legt uit hoe je scoutingactiviteiten veiliger kunt maken.
 
-Als iemand zich verwondt tijdens een scoutingactiviteit is dat behoorlijk vervelend. Deze module legt uit hoe je scoutingactiviteiten veiliger kan maken, zonder dat de activiteit minder leuk wordt. Door van te voren in te schatten wat er mis kan gaan en wat de kans is dat er iets mis gaat kan je maatregelen nemen om ongelukken te voorkomen.
+Wanneer iemand zich verwondt tijdens een scoutingactiviteit is dat behoorlijk vervelend. Deze module legt uit hoe je scoutingactiviteiten veiliger kan maken, zonder dat de activiteit minder leuk wordt. Door van te voren in te schatten wat er mis kan gaan en wat de kans is dat er iets mis gaat kan je maatregelen nemen om ongelukken te voorkomen.
 
 ## Dreiging van gevaar
 
@@ -18,18 +18,20 @@ Iets is veilig als het risico van ongelukken en letsel klein is. Iets is gevaarl
 * psychisch letsel
 * gehandicapt
 * dood
+ 
+Meestal probeer je narigheid te voorkomen, maar soms gebeurt er iets onvoorziens waardoor er toch schade optreedt. Er is dan sprake van een ongeluk. Als er in een bepaalde situatie een grote kans is op ongelukken, dan is dat een onveilige situatie. 
 
 Vraag: beschrijf een onveilige situatie.
 Vraag: definieer veiligheid.
 
 ## Veiligheid vergroten
 
-Om een situatie veiliger te maken is de eerste stap om te bedenken wat er allemaal fout kan gaan. Door te brainstormen en te doemdenken kan je vast al een boel mogelijke ongelukken bedenken. Verderop in deze module staan enkele veelvoorkomende ongelukken om je hierbij te helpen, maar meestal is dit niet de moeilijkste stap.
+Om een situatie veiliger te maken moet je zorgen dat er geen ongelukken kunnen gebeuren. De eerste stap is om te bedenken wat er allemaal fout kan gaan, zodat je hier iets tegen kan doen. Door te brainstormen en te doemdenken kan je vast al een boel mogelijke ongelukken bedenken. Verderop in deze module staan enkele veelvoorkomende ongelukken om je hierbij te helpen, maar meestal is dit niet de moeilijkste stap.
 
 Gegeven een specifieke situatie
 Vraag: Geef 10 mogelijke ongelukken
 
-Als je een lijst met ongelukken hebt bedacht kan je ze allemaal langslopen en kijken of je er iets aan kan doen. Dit is echter niet zo efficient. Het is veel werk om alle gevaren te bestrijden, en als je heel je lijst hebt afgerond kan je vast wel weer nieuwe gevaren bedenken. Daarom is het handig om alleen naar de gevaren te kijken waarvan het risico heel hoog is. Voor de gevaren met een hoog risico bedenk je dan een oplossing.
+Je kan proberen alle mogelijke ongelukken aan te pakken, maar dat is niet zo efficient. Het is veel werk om alle gevaren te bestrijden, en als je heel je lijst hebt afgerond kan je vast wel weer nieuwe gevaren bedenken. Daarom is het handig om alleen naar de gevaren te kijken waarvan het risico heel hoog is. Schat voor alle gevaren op je lijst het risico in, en bedenk alleen voor de gevaren met een hoog risico een oplossing.
 
 Een lijst met gevaren, de risico's daarvan en een mogelijke oplossing heet ook wel een risicoinventarisatie en -evaluatie, of een RI&E.
 
@@ -46,8 +48,9 @@ Enkele voorbeelden:
 
 De ongevallen met het grootste risico zijn het gevaarlijkst. Als je de veiligheid wilt vergroten kan je dus het beste daar beginnen. Je kan beter verkeersdoden dan splinters bestrijden. Wil je goed inschatten welke ongevallen het grootste risico hebben, dan moet je kunnen inschatten wat de kans is op bepaalde ongevallen, en wat het effect er van is.
 
-kans = waarschijnlijkheid, hoe vaak iets voor komt
-effect = gevolg, impact, hoe ernstig iets is
+kans = waarschijnlijkheid, hoe vaak iets voor komt  
+effect = gevolg, impact, hoe ernstig iets is  
+risico = gevaarlijkheid, mogelijkheid op schade  
 
 Om te weten hoe gevaarlijk een situatie is moet je de kans en het effect inschatten. Om de situatie veiliger te maken moet je de kans of het effect verkleinen.
 
@@ -79,9 +82,9 @@ In 2011 kwamen 94000 kinderen (5 t/m 18 jaar) bij de eerste hulp, en 54% daarvan
 
 Verkeersongelukken komen redelijk vaak voor en hebben vaak grote gevolgen. Ongelukken gebeuren het meest met de fiets, en jongeren verongelukken vaker.
 
-Bij een verkeersongeluk denk je vaak aan een aanrijding, maar het komt ook vaak voor dat er slechts één iemand bij het ongeluk betrokken is. Bij zo'n eenzijdig ongeval val je bijvoorbeeld van je fiets omdat je per ongeluk de berm in reedt.
+Bij een verkeersongeluk denk je vaak aan een aanrijding, maar het komt ook vaak voor dat er slechts één iemand bij het ongeluk betrokken is. Bij zo'n eenzijdig ongeval val je bijvoorbeeld van je fiets nadat je per ongeluk de berm in reedt.
 
-Aan een verkeersongeluk kan je een kneuzing of breuk of een hersenschudding over houden, en er overlijden jaarlijks zo'n 600 mensen in het verkeer.
+Aan een verkeersongeluk kan je een kneuzing, breuk of een hersenschudding over houden, en er overlijden jaarlijks zo'n 600 mensen in het verkeer in Nederland.
 
 ### Botsen
 
