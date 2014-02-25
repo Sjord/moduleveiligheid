@@ -213,7 +213,7 @@ Het veiligste is natuurlijk om altijd een RI&E op papier te zetten, maar dat is 
 * regio- en landelijke activiteiten
 * nieuwe of gevaarlijke activiteiten
 
-Nadat je deze module hebt gevolgd en een paar RI&E's hebt gemaakt is het wel de bedoeling dat je wat meer gevoel krijgt voor veiligheid, en dat je dus ook de gevaren van een activiteit in kan schatten zonder een RI&E op papier te zetten. Het is dus een goed idee om voor elke activiteit even stil te staan bij de risico's, maar dat hoeft niet altijd formeel.
+Nadat je deze module hebt gevolgd en een paar RI&E's hebt gemaakt krijg je wat meer gevoel voor veiligheid, en kan je de gevaren van een activiteit inschatten zonder een RI&E op papier te zetten. Het is dus een goed idee om voor elke activiteit even stil te staan bij de risico's, maar dat hoeft niet altijd formeel.
 
 ## Veiligheidsfactoren
 
@@ -300,11 +300,15 @@ Zoals bij elk kampvuur moet je bluswater bij de hand hebben als je gaat koken op
 
 Daarnaast is het op een houtvuur lastiger om de temperatuur te regelen dan op een gaspit. Het risico van eten wat niet goed gaar is is daardoor groter.
 
-Daarnaast kook je vaak op de grond op een instabiele stellage, waardoor er een risico is dat een pan kan omvallen. Dat betekent niet alleen geen avondeten, maar ook mogelijke brandwonden.
+Verder kook je vaak op de grond op een instabiele stellage, waardoor er een risico is dat een pan kan omvallen. Dat betekent niet alleen geen avondeten, maar ook mogelijke brandwonden.
+
+Net als bij koken op gasflessen is het belangrijk om het eten goed te bereiden en rekening te houden met hygiëne.
 
 ### Hiken
 
 Als je een lang stuk gaat lopen is er een kans op blessures, blaren en andere pijntjes. Daarnaast meng je je in het verkeer, waardoor het gevaar bestaat dat je bij een verkeersongeval betrokken raakt. Ga je 's nachts of in de regen hiken, dan is dit risico nog groter.
+
+# Conclusie
 
 # Meer info 
 
