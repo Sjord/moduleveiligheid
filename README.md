@@ -85,14 +85,16 @@ Kansen inschatten is best moeilijk. Probeer je niet te laten meeslepen door je g
 ### Valkuilen
 
 Er zijn enkele redenen waarom je kansen verkeerd zou kunnen inschatten:
-* Nieuwe gevaren zijn enger dan bestaande gevaren.
 * Gevaren door mensen zijn enger dan gevaren door de natuur. Natuurlijke dingen worden als gezond ervaren, en daardoor wordt bijvoorbeeld straling van je mobiel gevaarlijker gevonden dan straling van de zon.
 * Spectaculaire dingen lijken gevaarlijker. Opgegeten worden door een haai lijkt een groter gevaar dan overlijden aan hart- en vaatziekten.
 * Gevaren in het nieuws lijken meer voor te komen. Je hoort bijna nooit over verkeersdoden op het nieuws, maar wel als er een vliegtuig neerstort. Daardoor lijkt vliegen gevaarlijker dan autorijden.
 * Als een situatie lijkt op die van jou schat je de kans hoger in. Als een scout betrokken raakt bij een verkeersongeval grijpt dat je meer aan dan dat iemand anders betrokken raakt.
 * Als je de situatie in eigen hand hebt lijkt het risico kleiner. Autorijden lijkt minder gevaarlijk dan vliegen, omdat je als bestuurder zelf de boel in de hand hebt.
 * Gevaren waarbij het gevolg lang op zich laat wachten lijken minder gevaarlijk. Van roken en ongezond leven ervaar je de gevolgen pas na jaren, dus lijkt het nu allemaal niet zo erg.
+* Nieuwe gevaren lijken groter dan bestaande gevaren.
 * Dat iets eng is betekent niet dat het gevaarlijk is. Bungeejumpen, achtbanen en spreken in het openbaar zijn heel eng, maar minder gevaarlijk dan autorijden of roken.
+
+Meer info: [The Psychology of Security](https://www.schneier.com/essay-155.html)
 
 ## Effecten inschatten
 
@@ -152,7 +154,7 @@ Ook als er geen duidelijk ongeluk plaats vindt kan je tijdens een spel je enkel 
 Om het risico van een ongeluk te verlagen kan je de kans verkleinen dat het ongeluk gebeurd, of het gevolg verkleinen. Als je de kans verkleint zal het ongeluk zich minder snel voordoen. Als je het gevolg verkleint is het minder erg als het ongeluk zich toch voordoet.
 
 Voorbeeld: Om de kans op brand te verkleinen doe je kaarsen uit als je weg gaat. Om het gevolg van brand te voorkomen heb je een brandblusser, een rookmelder en een verzekering.
-Voorbeeld: Om de kans op vallen te verkleinen verwijder je alle losliggende dingen van het terrein. Om het gevolg ervan te verkleinen heb je een EHBO doos in de buurt.
+Voorbeeld: Om de kans op vallen te verkleinen verwijder je alle losliggende dingen van het terrein. Om het gevolg ervan te verkleinen heb je een EHBO doos of icepack in de buurt.
 
 ## Kansen reduceren
 
@@ -166,12 +168,24 @@ Een andere manier om het risico te verkleinen is om de uitkomst van het ongeluk 
 
 ### Verzekeringen
 
-Eén manier om gevolgen te reduceren is om een verzekering te nemen. Als er dan een ongeluk gebeurd kom je niet in de problemen omdat je te weinig geld hebt, en na het ongeluk blijf je niet zitten met een torenhoge schuld. Er zijn verschillende verzekeringen:
+Eén manier om gevolgen te reduceren is om een verzekering te nemen. Als er dan een ongeluk gebeurd kom je niet in de problemen omdat je te weinig geld hebt, en na het ongeluk blijf je niet zitten met een torenhoge schuld. Er zijn verschillende verzekeringen, waaronder:
 
 * Een reisverzekering dekt kosten van ongelukken tijdens een vakantie of kamp. Bijvoorbeeld als je bagage beschadigd of kwijt raakt, of als je je been breekt en naar het ziekenhuis moet. Met een doorlopende reisverzekering betaal je elke maand en dan ben je op elke reis verzekerd. Dit kost rond de €2 per maand.
 * Een aansprakelijkheidsverzekering. Als je iets of iemand anders stuk maakt en daar verantwoordelijk voor bent, kunnen de kosten op jou verhaald worden. Je aansprakelijkheidsverzekering dekt dit dan in veel gevallen. Beschadig je een kind of een auto, dan kunnen de kosten flink oplopen. Als leiding ben je ook nog eens verantwoordelijk, dus is de kans groter dat op jou de kosten verhaald worden. Het is dan ook een goed idee om een aansprakelijkheidsverzekering te hebben.
+ 
+### Materialen
+
+Er zijn veel spullen beschikbaar om de gevolgen van een ongeluk te reduceren:
+
+* brandblusser
+* icepack
+* EHBO koffer
+* lijst met noodnummers
+* gezondheidsformulieren
 
 # Risicoinventarisatie maken
+
+Een risicoinventarisatie en -evaluatie is een lijst met ongelukken, hun risico en hun mogelijke oplossing. Dit kan je gebruiken om een situatie veiliger te maken, en je kan ook aan anderen laten zien welke stappen je hebt doorlopen.
 
 Je weet nu hoe je het risico kan inschatten en hoe je het kan verlagen. Dit kan je gebruiken bij het maken van een risicoinventarisatie en -evaluatie (RI&E).
 
@@ -181,15 +195,15 @@ Bij een RI&E doorloop je de volgende stappen:
 * Schat voor elk gevaar het gevolg in
 * Voor de gevaren met een hoog risico, bedenk een manier om het risico te verkleinen
 
-Bij de laatste stap kan je je plan het beste SMART maken. 
-Voorbeeld: De trapleuning los zit los
-Slecht: Dit lossen we wel een keer op
-Beter: Het klusteam lost dit komende maand op
-Nog beter: Jos schroeft dinsdagavond de trapleuning vast
+Bij de laatste stap kan je je plan het beste SMART maken.  
+Voorbeeld: De trapleuning los zit los  
+Slecht: Dit lossen we wel een keer op  
+Beter: Het klusteam lost dit komende maand op  
+Nog beter: Jos schroeft dinsdagavond de trapleuning vast  
 
-Gegeven een specifieke situatie
-Vraag: hoe verklein je de kans op een ongeluk?
-Vraag: hoe verklein je het gevolg van het ongeluk?
+Gegeven een specifieke situatie  
+Vraag: hoe verklein je de kans op een ongeluk?  
+Vraag: hoe verklein je het gevolg van het ongeluk?  
 
 ## Wanneer maak je een RI&E
 
