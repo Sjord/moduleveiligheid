@@ -156,6 +156,8 @@ Om het risico van een ongeluk te verlagen kan je de kans verkleinen dat het onge
 Voorbeeld: Om de kans op brand te verkleinen doe je kaarsen uit als je weg gaat. Om het gevolg van brand te voorkomen heb je een brandblusser, een rookmelder en een verzekering.
 Voorbeeld: Om de kans op vallen te verkleinen verwijder je alle losliggende dingen van het terrein. Om het gevolg ervan te verkleinen heb je een EHBO doos of icepack in de buurt.
 
+Het verkleinen van het risico wordt ook wel het beheersen van het risico genoemd, en wat je doet om dit te bereiken wordt de beheersmaatregel genoemd.
+
 ## Kansen reduceren
 
 Een ongeluk kan zich alleen voordoen als er een bepaalde situatie is. Kinderen kunnen uitglijden over een natte vloer, maar alleen als de vloer nat is en ze onvoorzichtig er overheen lopen. Als je iets aan deze situatie verandert haal je de voorwaarden voor het ongeluk weg. Door het natte gedeelte af te zetten of droog te maken is het ongeluk al onmogelijk geworden.
@@ -171,7 +173,7 @@ Een andere manier om het risico te verkleinen is om de uitkomst van het ongeluk 
 Eén manier om gevolgen te reduceren is om een verzekering te nemen. Als er dan een ongeluk gebeurd kom je niet in de problemen omdat je te weinig geld hebt, en na het ongeluk blijf je niet zitten met een torenhoge schuld. Er zijn verschillende verzekeringen, waaronder:
 
 * Een reisverzekering dekt kosten van ongelukken tijdens een vakantie of kamp. Bijvoorbeeld als je bagage beschadigd of kwijt raakt, of als je je been breekt en naar het ziekenhuis moet. Met een doorlopende reisverzekering betaal je elke maand en dan ben je op elke reis verzekerd. Dit kost rond de €2 per maand.
-* Een aansprakelijkheidsverzekering. Als je iets of iemand anders stuk maakt en daar verantwoordelijk voor bent, kunnen de kosten op jou verhaald worden. Je aansprakelijkheidsverzekering dekt dit dan in veel gevallen. Beschadig je een kind of een auto, dan kunnen de kosten flink oplopen. Als leiding ben je ook nog eens verantwoordelijk, dus is de kans groter dat op jou de kosten verhaald worden. Het is dan ook een goed idee om een aansprakelijkheidsverzekering te hebben.
+* Een aansprakelijkheidsverzekering. Als je iets of iemand stuk maakt en daar verantwoordelijk voor bent, kunnen de kosten op jou verhaald worden. Je aansprakelijkheidsverzekering dekt dit dan in veel gevallen. Beschadig je een kind of een auto, dan kunnen de kosten flink oplopen. Als leiding ben je ook nog eens verantwoordelijk, dus is de kans groter dat op jou de kosten verhaald worden. Het is dan ook een goed idee om een aansprakelijkheidsverzekering te hebben.
  
 ### Materialen
 
@@ -182,6 +184,7 @@ Er zijn veel spullen beschikbaar om de gevolgen van een ongeluk te reduceren:
 * EHBO koffer
 * lijst met noodnummers
 * gezondheidsformulieren
+* veiligheidsbril
 
 # Risicoinventarisatie maken
 
@@ -229,6 +232,8 @@ Voorbeeld: Ga je 's nachts een hike lopen, dan zijn goede schoenen, warme kledin
 
 Zorg dat je het goede materiaal gebruikt en dat het materiaal wat je gebruikt goed is.
 
+Soms kan je beter geen materiaal hebben dan slecht materiaal. Als je je een elektrisch apparaat hebt waarvan de draden bloot liggen, kan je beter de stekker er af knippen en weggooien dan het apparaat terugleggen in de kast.
+
 ### Voorbereiding
 
 Een activiteit verloopt beter met een goede voorbereiding. Leg alle spullen klaar van te voren en bedenk wat je van te voren kan doen. Dit zorgt er voor dat je in je hoofd de activiteit van te voren doorloopt, en dat je tijdens de activiteit rustiger bent en meer oog hebt voor wat er gebeurt. Beide zaken die bijdragen aan de veiligheid.
@@ -242,6 +247,8 @@ Weet je niet waar je mee bezig bent, dan is de kans op ongelukken groter. Het is
 ### Concentratie
 
 Ben je een intensieve taak aan het doen, dan is het belangrijk dat je niet afgeleid wordt. Zo is het een slecht idee om te facebooken tijdens het autorijden, maar ook om te hakken, boren of slijpen in een drukke omgeving.
+
+Eén taak waarbij je goed moet opletten is bijvoorbeeld het vervangen van een gasfles. Vergeet je de gasfles dicht te draaien voordat je de slang loskoppelt dan kan dit rampzalige gevolgen hebben. Dit is makkelijk te voorkomen door de taak met z'n tweeën te doen, of een checklist te gebruiken.
 
 ### Gebouw en omgeving
 
@@ -261,6 +268,17 @@ Bij het gebruik van eten en drinken is het belangrijk dat dit op een hygiënisch
 * Vaatdoek regelmatig verschonen
 
 Op zomerkamp is het daarnaast nog belangrijk dat kinderen zich vaak genoeg wassen en verschonen.
+
+### Voorbeeld
+
+De scouts gaan een hike lopen.
+
+* Materiaal: goede schoenen zorgen er voor dat ze minder snel last van hun voeten krijgen.Reflecterende hesjes zorgen er voor dat de scouts goed zichtbaar zijn in het verkeer.
+* Voorbereiding: alles staat klaar voor op de posten en voor tijdens de hike. Alle scouts hebben van te voren hun drinkfles gevuld.
+* Instructie: door de scouts een goede instructie te geven lopen ze minder snel fout. De postbemanning weet wat ze moeten doen als er iets aan de hand is.
+* Concentratie: het uitwerken van de hike is secuur gedaan, waardoor deze weinig fouten bevat. De scouts letten goed op of ze geen pad over het hoofd zien.
+* Omgeving: de hike gaat niet door gevaarlijk gebied, of 's avonds door een uitgaansgebied.
+* Hygiëne: het eten en drinken wat wordt uitgedeeld is goed klaargemaakt. Er wordt op toegezien dat iedereen schone sokken aan trekt.
 
 ## Omgevingen en situaties
 
