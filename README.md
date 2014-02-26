@@ -31,7 +31,7 @@ Om een situatie veiliger te maken moet je zorgen dat er geen ongelukken kunnen g
 Gegeven een specifieke situatie
 Vraag: Geef 10 mogelijke ongelukken
 
-Je kan proberen alle mogelijke ongelukken aan te pakken, maar dat is niet zo efficient. Het is veel werk om alle gevaren te bestrijden, en als je heel je lijst hebt afgerond kan je vast wel weer nieuwe gevaren bedenken. Daarom is het handig om alleen naar de gevaren te kijken waarvan het risico heel hoog is. Schat voor alle gevaren op je lijst het risico in, en bedenk alleen voor de gevaren met een hoog risico een oplossing.
+Je kan proberen alle mogelijke ongelukken aan te pakken, maar dat is niet zo efficiënt. Het is veel werk om alle gevaren te bestrijden, en als je heel je lijst hebt afgerond kan je vast wel weer nieuwe gevaren bedenken. Daarom is het handig om alleen naar de gevaren te kijken waarvan het risico heel hoog is. Schat voor alle gevaren op je lijst het risico in, en bedenk alleen voor de gevaren met een hoog risico een oplossing.
 
 Een lijst met gevaren, de risico's daarvan en een mogelijke oplossing heet ook wel een risicoinventarisatie en -evaluatie, of een RI&E.
 
@@ -62,7 +62,7 @@ Naast kans en effect gebruiken sommige mensen nog een derde waarde om het risico
 
 Hoe goed je ook je best doet, er kan altijd een ongeluk gebeuren. Het is onpraktisch om jezelf te behoeden voor alle ongelukken, en soms zit er ook een positieve kant aan een risico. Autorijden is best wel gevaarlijk, maar het is ook heel erg handig om ergens te komen. De meeste mensen vinden het risico van een verkeersongeval tijdens het autorijden dan ook een acceptabel risico. Het risico op een ongeluk is dan kleiner dan het profijt wat je ervan ondervindt.
 
-Hetzelde gaat op voor scouting: het is heel leuk, en best wel gevaarlijk. Het doel van deze module is om het minder gevaarlijk te maken zonder het minder leuk te maken. Het is niet de bedoeling dat je stopt met alle spelletjes omdat iemand zich dan kan verwonden, maar om risico's terug te dringen tot een acceptabel niveau. Je kan dus nog steeds renspelletjes doen op het veld, maar haal eerst even de losliggende stenen en takken weg.
+Hetzelfde gaat op voor scouting: het is heel leuk, en best wel gevaarlijk. Het doel van deze module is om het minder gevaarlijk te maken zonder het minder leuk te maken. Het is niet de bedoeling dat je stopt met alle spelletjes omdat iemand zich dan kan verwonden, maar om risico's terug te dringen tot een acceptabel niveau. Je kan dus nog steeds renspelletjes doen op het veld, maar haal eerst even de losliggende stenen en takken weg.
 
 # Risico inschatten
 
@@ -103,8 +103,8 @@ Om gevolgen van ongelukken in te schatten kan je het beste denken aan de slechts
 Het gevolg kan je ook indelen in de categorieën laag, middel en hoog. Enkele voorbeelden:
 
 * Laag. Best vervelend. Je hebt een wondje en er moet even een pleister op, je hebt je gestoten en het doet even pijn, of een andere kleine tegenslag.
-* Middel. Erg vervelend. Er moet een EHBOer naar kijken of je moet naar de eerste hulp. Je kan niet door met je programma. Je hebt er een aantal dagen last van.
-* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren. Of nog erger: je raakt gehandicapped of je overlijdt.
+* Middel. Erg vervelend. Er moet een EHBO-er naar kijken of je moet naar de eerste hulp. Je kan niet door met je programma. Je hebt er een aantal dagen last van.
+* Hoog. Heel erg. Je moet naar het ziekenhuis en weken of maanden revalideren. Of nog erger: je raakt gehandicapt of je overlijdt.
 
 Enkele van de meest voorkomende gevolgen van een ongeluk zijn:
 * gebroken of gekneusde arm, hand, pols of vinger
@@ -129,7 +129,7 @@ In 2011 kwamen 94000 kinderen (5 t/m 18 jaar) bij de eerste hulp, en 54% daarvan
 
 Verkeersongelukken komen redelijk vaak voor en hebben vaak grote gevolgen. Ongelukken gebeuren het meest met de fiets, en jongeren verongelukken vaker.
 
-Bij een verkeersongeluk denk je vaak aan een aanrijding, maar het komt ook vaak voor dat er slechts één iemand bij het ongeluk betrokken is. Bij zo'n eenzijdig ongeval val je bijvoorbeeld van je fiets nadat je per ongeluk de berm in reedt.
+Bij een verkeersongeluk denk je vaak aan een aanrijding, maar het komt ook vaak voor dat er slechts één iemand bij het ongeluk betrokken is. Bij zo'n eenzijdig ongeval val je bijvoorbeeld van je fiets nadat je per ongeluk de berm in reed.
 
 Aan een verkeersongeluk kan je een kneuzing, breuk of een hersenschudding over houden, en er overlijden jaarlijks zo'n 600 mensen in het verkeer in Nederland.
 
@@ -195,7 +195,7 @@ Nog beter: Jos schroeft dinsdagavond de trapleuning vast
 
 ### Voorbeeld
 
-Een risicoinventarisatie en -evaluatie is een lijst van risico's met de kans, het gevolg en eventueel een beheerstmaatregel:
+Een risicoinventarisatie en -evaluatie is een lijst van risico's met de kans, het gevolg en eventueel een beheersmaatregel:
 
 | Risico                            | kans  | gevolg | beheersmaatregel |
 | --------------------------------- | ----- | ------ | ---------------- |
@@ -336,7 +336,7 @@ Als je een lang stuk gaat lopen is er een kans op blessures, blaren en andere pi
 
 # Conclusie
 
-Je kan een risicoinventarisatie en -evalutie maken, waarbij je gevaren bedenkt, het risico daarvan inschat en beheersmaatregelen bedenkt. Daarnaast weet je welke ongelukken vaak voorkomen, en welke maatregelen je kan nemen om situaties veiliger te maken. Je hebt nu dus alles in huis om de volgende activiteit superveilig te maken, zonder deze minder leuk te maken.
+Je kan een risicoinventarisatie en -evaluatie maken, waarbij je gevaren bedenkt, het risico daarvan inschat en beheersmaatregelen bedenkt. Daarnaast weet je welke ongelukken vaak voorkomen, en welke maatregelen je kan nemen om situaties veiliger te maken. Je hebt nu dus alles in huis om de volgende activiteit superveilig te maken, zonder deze minder leuk te maken.
 
 
 # Meer info 
