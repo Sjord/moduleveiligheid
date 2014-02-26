@@ -336,6 +336,9 @@ Als je een lang stuk gaat lopen is er een kans op blessures, blaren en andere pi
 
 # Conclusie
 
+Je kan een risicoinventarisatie en -evalutie maken, waarbij je gevaren bedenkt, het risico daarvan inschat en beheersmaatregelen bedenkt. Daarnaast weet je welke ongelukken vaak voorkomen, en welke maatregelen je kan nemen om situaties veiliger te maken. Je hebt nu dus alles in huis om de volgende activiteit superveilig te maken, zonder deze minder leuk te maken.
+
+
 # Meer info 
 
 * Practical Risk Analysis for Safety Management, Kinney and Wiruth, http://www.dtic.mil/dtic/tr/fulltext/u2/a027189.pdf
