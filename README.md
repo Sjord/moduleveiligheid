@@ -204,9 +204,20 @@ Slecht: Dit lossen we wel een keer op
 Beter: Het klusteam lost dit komende maand op  
 Nog beter: Jos schroeft dinsdagavond de trapleuning vast  
 
-Gegeven een specifieke situatie  
-Vraag: hoe verklein je de kans op een ongeluk?  
-Vraag: hoe verklein je het gevolg van het ongeluk?  
+### Voorbeeld
+
+Een risicoinventarisatie en -evaluatie is een lijst van risico's met de kans, het gevolg en eventueel een beheerstmaatregel:
+
+| Risico                            | kans  | gevolg | beheersmaatregel |
+| --------------------------------- | ----- | ------ | ---------------- |
+| Kind stoot tegen haak van kapstok | groot | groot  | kapstok afdekken |
+| Kind stopt iets in stopcontact    | klein | groot  |                  |
+| Kind verwond zich aan schaar      | klein | klein  |                  |
+| Kind krijgt vinger tussen de deur | groot | middel | deur open houden |
+
+De kans en het gevolg zijn specifiek voor een bepaalde situatie. De kans dat een kind zich aan een kapstok stoot hangt er vanaf waar de kapstok zit, hoe hoog hij hangt en wat voor haken deze heeft. De kans hiervoor is dus niet alle gevallen "groot".
+
+Een beheersmaatregel kan ook weer andere risico's met zich meebrengen. Als je de deuren altijd open houdt krijgt niemand zijn vinger tussen de deur, maar is het risico groter dat een brand zich snel verspreid. Daarnaast moet een beheersmaatregel werken in de praktijk. Als blijkt dat de deur alsnog vaak dicht wordt gedaan omdat de welpen zoveel herrie maken, heeft deze maatregel geen effect.
 
 ## Wanneer maak je een RI&E
 
