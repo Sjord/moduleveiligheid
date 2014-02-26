@@ -175,17 +175,6 @@ Eén manier om gevolgen te reduceren is om een verzekering te nemen. Als er dan 
 * Een reisverzekering dekt kosten van ongelukken tijdens een vakantie of kamp. Bijvoorbeeld als je bagage beschadigd of kwijt raakt, of als je je been breekt en naar het ziekenhuis moet. Met een doorlopende reisverzekering betaal je elke maand en dan ben je op elke reis verzekerd. Dit kost rond de €2 per maand.
 * Een aansprakelijkheidsverzekering. Als je iets of iemand stuk maakt en daar verantwoordelijk voor bent, kunnen de kosten op jou verhaald worden. Je aansprakelijkheidsverzekering dekt dit dan in veel gevallen. Beschadig je een kind of een auto, dan kunnen de kosten flink oplopen. Als leiding ben je ook nog eens verantwoordelijk, dus is de kans groter dat op jou de kosten verhaald worden. Het is dan ook een goed idee om een aansprakelijkheidsverzekering te hebben.
  
-### Materialen
-
-Er zijn veel spullen beschikbaar om de gevolgen van een ongeluk te reduceren:
-
-* brandblusser
-* icepack
-* EHBO koffer
-* lijst met noodnummers
-* gezondheidsformulieren
-* veiligheidsbril
-
 # Risicoinventarisatie maken
 
 Een risicoinventarisatie en -evaluatie is een lijst met ongelukken, hun risico en hun mogelijke oplossing. Dit kan je gebruiken om een situatie veiliger te maken, en je kan ook aan anderen laten zien welke stappen je hebt doorlopen.
@@ -231,19 +220,27 @@ Nadat je deze module hebt gevolgd en een paar RI&E's hebt gemaakt krijg je wat m
 
 ## Veiligheidsfactoren
 
-De volgende onderwerpen kunnen bijdragen aan een verhoogde veiligheid.
+In specifieke situaties kunnen specifieke ongelukken plaats vinden, maar er zijn ook factoren die altijd bijdragen aan een grotere veiligheid. In het algemeen geld dat als je een situatie beter onder controle hebt, dat deze dan ook veiliger is. De volgende factoren kunnen daar aan bijdragen:
 
 ### Materiaal
 
-Goed materiaal hebben en gebruiken is belangrijk voor een veilige situatie. 
+Goed materiaal hebben en gebruiken is belangrijk voor een veilige situatie. Zorg dat je het goede materiaal gebruikt en dat het materiaal wat je gebruikt goed is.
 
 Voorbeeld: Wil je een pakje batterijen open maken, dan kan dat met een schaar. Heb je geen schaar in de buurt, dan lukt het ook met een mes, maar dat is wel een stuk gevaarlijker. 
 
 Voorbeeld: Ga je 's nachts een hike lopen, dan zijn goede schoenen, warme kleding en een reflecterend hesje belangrijk.
 
-Zorg dat je het goede materiaal gebruikt en dat het materiaal wat je gebruikt goed is.
-
 Soms kan je beter geen materiaal hebben dan slecht materiaal. Als je je een elektrisch apparaat hebt waarvan de draden bloot liggen, kan je beter de stekker er af knippen en weggooien dan het apparaat terugleggen in de kast.
+
+Daarnaast zijn er verschillende materialen beschikbaar om de gevolgen van een ongeluk te verkleinen. Denk bijvoorbeeld aan de volgende spullen:
+
+* brandblusser
+* icepack
+* EHBO koffer
+* lijst met noodnummers
+* gezondheidsformulieren
+
+Als er een ongeluk plaats vind kunnen deze materialen van pas komen om het ongeluk in te perken. Zorg dus bij elke activiteit dat je de goede materialen hebt, zodat de activiteit veilig verloopt.
 
 ### Voorbereiding
 
